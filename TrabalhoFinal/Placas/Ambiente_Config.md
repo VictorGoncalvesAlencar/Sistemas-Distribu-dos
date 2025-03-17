@@ -1,6 +1,3 @@
-Ótimo! Vou te passar um **passo a passo completo** para configurar o ambiente local e rodar a aplicação. Assim, você pode clonar o repositório do Git e executar sem problemas.
-
----
 
 ### 🔧 **Passo a Passo para Configurar o Ambiente Local**
 
